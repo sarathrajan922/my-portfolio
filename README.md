@@ -2,4 +2,4 @@
 
 Tap the link to visit the page
 
-https://github.com/sarathrajan922/my-portfolio.git
+https://sarathrajan922.github.io/my-portfolio/
